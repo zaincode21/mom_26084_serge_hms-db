@@ -98,6 +98,9 @@ Phase: Table Implementation and Data Insertion
 <img width="534" alt="step 7 (data in medical records )" src="https://github.com/user-attachments/assets/3fb89085-a225-4e2b-8cc5-a622ff518401" />
 
 
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/4ae99423-f632-40a3-87ec-f8fa38122a05" />
+
+
 Phase: Database Interaction and Transactions
 --------------------------------------------
 . Database Operations
